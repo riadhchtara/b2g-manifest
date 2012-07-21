@@ -4,9 +4,9 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
   <remote  name="linaro"
-           fetch="git://android.git.linaro.org/" />
+           fetch="http://android.git.linaro.org/" />
   <remote name="b2g"
-          fetch="git://github.com/mozilla-b2g/" />
+          fetch="http://github.com/mozilla-b2g/" />
   <default revision="refs/tags/android-4.0.4_r2.1"
            remote="linaro"
            sync-j="4" />
